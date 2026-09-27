@@ -1,0 +1,40 @@
+{
+  "project_name": "FORGEO",
+  "tool": "playwright",
+  "language": "typescript",
+  "generated_at": "2026-09-27T11:38:01.027969+00:00",
+  "scenario_ids": [
+    "FUN-001",
+    "FUN-002",
+    "FUN-003",
+    "FUN-004",
+    "FUN-005",
+    "FUN-006",
+    "FUN-007",
+    "FUN-008",
+    "FUN-009",
+    "FUN-010",
+    "FUN-011",
+    "FUN-012",
+    "FUN-013",
+    "FUN-014",
+    "FUN-015",
+    "FUN-016",
+    "FUN-017",
+    "FUN-018",
+    "FUN-019",
+    "FUN-020",
+    "FUN-021",
+    "FUN-022",
+    "FUN-023",
+    "FUN-024",
+    "FUN-025",
+    "FUN-026"
+  ],
+  "files": [
+    "forgeo.generated.spec.ts",
+    "playwright.config.ts",
+    "package.json",
+    "README.md"
+  ]
+}
